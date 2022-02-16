@@ -1,6 +1,7 @@
-# Dicas e Auxiliares
 
+<h1 align="center">Dicas e Auxiliares</h1>
 
+<br/>
  
  ## 📄README :
 
