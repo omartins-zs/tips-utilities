@@ -50,3 +50,16 @@
 
 </details>
  
+ 
+ 
+<details>
+  <summary>📍Icons</summary>
+ <br>
+
+- Font Awesome [Icons](https://fontawesome.com/icons)
+- Logotipos de linguagens e ferramentas de desenvolvimento [DevIcon](https://github.com/devicons/devicon/tree/master/icons)
+- Icones Simples [Simple Icons](https://simpleicons.org/)
+
+</details>
+ 
+
