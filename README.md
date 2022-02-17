@@ -62,4 +62,12 @@
 
 </details>
  
+ <details>
+  <summary>🔖Badges</summary>
+ <br>
+ 
 
+- 150+ Badges for GitHub [DEV Community](https://dev.to/envoy_/150-badges-for-github-pnk)
+- Badges Readme [Badges 4 README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+</details>
