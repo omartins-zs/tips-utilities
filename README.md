@@ -2,7 +2,11 @@
 <h1 align="center">Dicas e Auxiliares</h1>
 
 <br/>
+
+
+## Banco de dados :
  
+ - [Tipos de campos e exemplos de valores](http://www.fititnt.org/off/tipos-de-campos-e-exemplos-de-valores-empresas-em-sistemas-cnpj-cep.html)
  ## 📄README :
 
 - [Um modelo para fazer bom README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
