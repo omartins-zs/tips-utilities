@@ -63,6 +63,7 @@
 - Font Awesome [Icons](https://fontawesome.com/icons)
 - Logotipos de linguagens e ferramentas de desenvolvimento [DevIcon](https://github.com/devicons/devicon/tree/master/icons)
 - Icones Simples [Simple Icons](https://simpleicons.org/)
+- Favicons [Icons8](https://icons8.com.br/icons/set/popular)
 
 </details>
  
