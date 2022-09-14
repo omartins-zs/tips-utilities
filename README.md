@@ -3,6 +3,7 @@
 
 <br/>
 
+Dicas de [PHP Conceitual](https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md)
 
 ## Banco de dados :
  
