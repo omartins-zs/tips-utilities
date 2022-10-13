@@ -88,6 +88,6 @@
   <summary>📍Leitores de JSON</summary>
  <br>
 
-- JSON Creator [Icons](https://fontawesome.com/icons](https://jsoncrack.com)
+- JSON Creator [Icons](https://jsoncrack.com)
 
 </details>
