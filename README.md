@@ -2,12 +2,15 @@
 <h1 align="center">Dicas e Auxiliares</h1>
 
 <br/>
+<p align="center">
+<img src="https://img.shields.io/badge/-GERAL-informational"/>
+</p>
 
-Dicas de [PHP Conceitual](https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md)
+ - Dicas de [PHP Conceitual](https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md)
 
-Visualize perfeitamente seus dados JSON instantaneamente em gráficos [JSON Crack](https://jsoncrack.com/)
+ - Visualize perfeitamente seus dados JSON instantaneamente em gráficos [JSON Crack](https://jsoncrack.com/)
 
-## Banco de dados :
+## 🪑💹 Banco de dados :
  
  - [Tipos de campos e exemplos de valores](http://www.fititnt.org/off/tipos-de-campos-e-exemplos-de-valores-empresas-em-sistemas-cnpj-cep.html)
  ## 📄README :
@@ -77,5 +80,5 @@ Visualize perfeitamente seus dados JSON instantaneamente em gráficos [JSON Crac
 
 - 150+ Badges for GitHub [DEV Community](https://dev.to/envoy_/150-badges-for-github-pnk)
 - Badges Readme [Badges 4 README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-
+- Criador de Badges e Exemplos[Shields.io](https://shields.io/)
 </details>
