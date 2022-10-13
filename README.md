@@ -5,6 +5,8 @@
 
 Dicas de [PHP Conceitual](https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md)
 
+Visualize perfeitamente seus dados JSON instantaneamente em gráficos [JSON Crack](https://jsoncrack.com/)
+
 ## Banco de dados :
  
  - [Tipos de campos e exemplos de valores](http://www.fititnt.org/off/tipos-de-campos-e-exemplos-de-valores-empresas-em-sistemas-cnpj-cep.html)
