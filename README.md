@@ -82,3 +82,12 @@
 - Badges Readme [Badges 4 README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - Criador de Badges e Exemplos[Shields.io](https://shields.io/)
 </details>
+
+
+<details>
+  <summary>📍Leitores de JSON</summary>
+ <br>
+
+- JSON Creator [Icons](https://fontawesome.com/icons](https://jsoncrack.com)
+
+</details>
