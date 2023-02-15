@@ -9,6 +9,8 @@
  - Dicas de [PHP Conceitual](https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md)
 
  - Visualize perfeitamente seus dados JSON instantaneamente em gráficos [JSON Crack](https://jsoncrack.com/)
+ 
+ - Compilando o Bootstrap com SASS e NPM [Tutorial Youtube](https://www.youtube.com/watch?v=VAet5wEoOWU&t) e [Auxiliar DOC](https://diegomariano.com/compilando-o-bootstrap-com-sass-e-npm/)
 
 ## 🪑💹 Banco de dados :
  
