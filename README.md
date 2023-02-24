@@ -12,7 +12,20 @@
  
  - Compilando o Bootstrap com SASS e NPM [Tutorial Youtube](https://www.youtube.com/watch?v=VAet5wEoOWU&t) e [Auxiliar DOC](https://diegomariano.com/compilando-o-bootstrap-com-sass-e-npm/)
 
-## 🪑💹 Banco de dados :
+## 💻📊✔️Software de Gerenciamento de Projetos
+
+- [Microsoft Project](https://project.microsoft.com/)
+- [Trello](https://trello.com/)
+- [Slack](https://slack.com/intl/pt-br)
+- [Wekan(Kaban) - Open Source](https://github.com/wekan/wekan)
+
+
+## 💻➡️✔️Ferramentas de Logica De Programação
+
+- Interface para criar diagramas como fluxogramas, wireframes, diagramas UML [Diagrams.net(draw.io)](https://app.diagrams.net/)
+- Ferramenta gráfica para escrever e executar fluxogramas  [Flowgorithm](http://www.flowgorithm.org/download/index.html)
+
+## 🪑💹 Banco de dados
  
  - [Tipos de campos e exemplos de valores](http://www.fititnt.org/off/tipos-de-campos-e-exemplos-de-valores-empresas-em-sistemas-cnpj-cep.html)
  ## 📄README :
@@ -20,6 +33,29 @@
 - [Um modelo para fazer bom README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 - [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
 - [Exemplo de README Ecoleta](https://github.com/tgmarinho/README-ecoleta/blob/master/README.md)
+
+
+## ✔️Emoji
+
+- Enciclopédia de Emoji [Emojipedia](https://emojipedia.org/)
+- Emojis Padrao WhatsApp [GetEmoji](https://getemoji.com/)
+- Emoji Geral [Git Markdown emoji](https://itinerant.tistory.com/60)
+- Emojis do Github [Github Emoji](https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji)
+- [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+- Emojis Padrao Markdown [Gist Emoji Markdown](https://gist.github.com/rxaviers/7360908)
+ 
+## 📍Icons
+
+- Font Awesome [Icons](https://fontawesome.com/icons)
+- Logotipos de linguagens e ferramentas de desenvolvimento [DevIcon](https://github.com/devicons/devicon/tree/master/icons)
+- Icones Simples [Simple Icons](https://simpleicons.org/)
+- Favicons [Icons8](https://icons8.com.br/icons/set/popular)
+
+## 🔖Badges
+
+- 150+ Badges for GitHub [DEV Community](https://dev.to/envoy_/150-badges-for-github-pnk)
+- Badges Readme [Badges 4 README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- Criador de Badges e Exemplos[Shields.io](https://shields.io/)
 
 
 ## 💻🧾 Editores
@@ -46,43 +82,6 @@
 - Editor de Código-Fonte Multi-Plataforma [Sublime Text](https://www.sublimetext.com/)
 - IDE Python [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
  
-</details>
-
-
-<details>
-  <summary>✔️Emoji</summary>
- <br>
-
-- Enciclopédia de Emoji [Emojipedia](https://emojipedia.org/)
-- Emojis Padrao WhatsApp [GetEmoji](https://getemoji.com/)
-- Emoji Geral [Git Markdown emoji](https://itinerant.tistory.com/60)
-- Emojis do Github [Github Emoji](https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji)
-- [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-- Emojis Padrao Markdown [Gist Emoji Markdown](https://gist.github.com/rxaviers/7360908)
-
-</details>
- 
- 
- 
-<details>
-  <summary>📍Icons</summary>
- <br>
-
-- Font Awesome [Icons](https://fontawesome.com/icons)
-- Logotipos de linguagens e ferramentas de desenvolvimento [DevIcon](https://github.com/devicons/devicon/tree/master/icons)
-- Icones Simples [Simple Icons](https://simpleicons.org/)
-- Favicons [Icons8](https://icons8.com.br/icons/set/popular)
-
-</details>
- 
- <details>
-  <summary>🔖Badges</summary>
- <br>
- 
-
-- 150+ Badges for GitHub [DEV Community](https://dev.to/envoy_/150-badges-for-github-pnk)
-- Badges Readme [Badges 4 README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- Criador de Badges e Exemplos[Shields.io](https://shields.io/)
 </details>
 
 
