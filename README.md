@@ -20,6 +20,13 @@
 - [Wekan(Kaban) - Open Source](https://github.com/wekan/wekan)
 
 
+## 🪑📊Sistemas de gerenciamento de banco de dados(SGBD)
+
+- [DBeaver Community](https://dbeaver.io/download/)
+- [HeidiSQL](https://www.heidisql.com/download.php)
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+
+
 ## 💻➡️✔️Ferramentas de Logica De Programação
 
 - Interface para criar diagramas como fluxogramas, wireframes, diagramas UML [Diagrams.net(draw.io)](https://app.diagrams.net/)
