@@ -41,6 +41,9 @@
 - [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
 - [Exemplo de README Ecoleta](https://github.com/tgmarinho/README-ecoleta/blob/master/README.md)
 
+ ## 👨‍💻	:octocat: Github :
+
+- [Git, desfazendo commits](https://brorlandi.github.io/git-desfazendo-commits)
 
 ## ✔️Emoji
 
