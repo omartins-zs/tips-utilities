@@ -44,6 +44,7 @@
  ## 👨‍💻	:octocat: Github :
 
 - [Git, desfazendo commits](https://brorlandi.github.io/git-desfazendo-commits)
+- [COMO MODIFICAR O REPOSITÓRIO REMOTO NO GIT?](https://wallacemaxters.com.br/blog/50/como-modificar-o-repositorio-remoto-no-git)
 
 ## ✔️Emoji
 
