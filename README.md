@@ -49,6 +49,8 @@
 - [Git, desfazendo commits](https://brorlandi.github.io/git-desfazendo-commits)
 - [COMO MODIFICAR O REPOSITÓRIO REMOTO NO GIT?](https://wallacemaxters.com.br/blog/50/como-modificar-o-repositorio-remoto-no-git)
 - Desfazer o último commit e remover as alterações do stage area `git reset HEAD~1` | `(git reset HEAD~2 volta 2 Commits)`
+- Desfazer o último commit e manter as alterações no stage area  `git reset --soft HEAD~1`
+
 ## ✔️Emoji
 
 - Enciclopédia de Emoji [Emojipedia](https://emojipedia.org/)
