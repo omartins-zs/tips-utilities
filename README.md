@@ -9,7 +9,7 @@
  - Dicas de [PHP Conceitual](https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md)
  - Usar PHP Intephesense na versão 1.8.0
  - Visualize perfeitamente seus dados JSON instantaneamente em gráficos [JSON Crack](https://jsoncrack.com/)
- 
+ - [Como configurar o Xampp para trabalhar com HTTPS - SSL](https://www.youtube.com/watch?v=0kvOQJj7gVk)
  - Compilando o Bootstrap com SASS e NPM [Tutorial Youtube](https://www.youtube.com/watch?v=VAet5wEoOWU&t) e [Auxiliar DOC](https://diegomariano.com/compilando-o-bootstrap-com-sass-e-npm/)
 
 ## 💻📊✔️Software de Gerenciamento de Projetos
@@ -47,10 +47,13 @@
  ## 👨‍💻	:octocat: Github :
 
 - [Git, desfazendo commits](https://brorlandi.github.io/git-desfazendo-commits)
-- [COMO MODIFICAR O REPOSITÓRIO REMOTO NO GIT?](https://wallacemaxters.com.br/blog/50/como-modificar-o-repositorio-remoto-no-git)
+- [Como modificar o repositorio remoto no Git](https://wallacemaxters.com.br/blog/50/como-modificar-o-repositorio-remoto-no-git)
+- [Diferença entre "git add --all", "git add ." e "git add -u"](https://pt.stackoverflow.com/questions/326160/diferen%C3%A7a-entre-git-add-all-git-add-e-git-add-u)
+- Geekhunter [13 comandos Git mais usados](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_add)
 - Desfazer o último commit e remover as alterações do stage area `git reset HEAD~1` | `(git reset HEAD~2 volta 2 Commits)`
 - Desfazer o último commit e manter as alterações no stage area  `git reset --soft HEAD~1`
-- Faz a fusao sem verificar a relação dos 2 Historicos commits [Resolvendo o erro “fatal: refusing to merge unrelated histories” no Git](https://community.umbler.com/br/t/resolvendo-o-erro-fatal-refusing-to-merge-unrelated-histories-no-git/657)
+- Fusão sem verificar os 2 Historicos de commits  `git pull origin master --allow-unrelated-histories` ->
+- [Resolvendo o erro “fatal: refusing to merge unrelated histories” no Git](https://community.umbler.com/br/t/resolvendo-o-erro-fatal-refusing-to-merge-unrelated-histories-no-git/657)
 
 ## ✔️Emoji
 
