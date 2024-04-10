@@ -131,6 +131,21 @@ fi
  
 </details>
 
+<details>
+  <summary>📚Auxiliares de Next.JS</summary>
+ <br>
+
+- Authentication for Next.js [NextAuth.js ](https://next-auth.js.org/)
+- Ferramenta de banco de dados ORM [Prisma.IO](https://www.prisma.io/) 
+- Criar sua biblioteca de componentes [shadcn/ui](https://ui.shadcn.com/)
+- Biblioteca de componentes para React [Chakra UI](https://chakra-ui.com/)
+- Biblioteca de componentes para o framework CSS Tailwind CSS [daisyUI](https://daisyui.com/)
+- Framework de CSS [Tailwind CSS](https://tailwindcss.com/)
+- Coleção de componentes para criar e-mails [React Email](https://react.email/) 
+ 
+</details>
+
+
 
 <details>
   <summary>📍Leitores de JSON</summary>
