@@ -1,0 +1,8 @@
+https://cssloaders.github.io/
+https://cssbuttons.app/buttons/30
+Preloaders.net: Offers a variety of CSS preloaders and spinners with customization options.
+
+Loading.io: Offers a wide range of customizable CSS loaders and animations.
+
+Spinkit: A collection of simple CSS spinners and loaders.
+
