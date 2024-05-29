@@ -79,8 +79,41 @@ fi
 </pre>
 
 </details>
+<details>
+  <summary>Alterando a Mensagem de Commits Específicos</summary>
+ <br>
+
+### 1. Utilize o comando `git rebase -i HEAD~n`
+Onde `n` é o número de commits a partir do HEAD que você quer incluir no rebase.
+
+```sh
+git rebase -i HEAD~3
+```
+### 2. Escolha o Commit para Editar
+Encontre o commit cuja mensagem você deseja alterar e substitua pick por reword (ou r) e Salve e feche o editor, Exemplo:
+```sh
+reword abc1234 Mensagem antiga
+pick def5678 Outro commit
+pick ghi9012 Outro commit
+```
+### 3. Edite a Mensagem do Commit
+O Git abrirá o editor novamente, desta vez para você editar a mensagem do commit especificado. Edite a mensagem conforme necessário, salve e feche o editor
+
+### 4. Continue o Rebase
+Após editar a mensagem, o rebase interativo continuará automaticamente. Se houver conflitos, você precisará resolvê-los antes de continuar.
+```sh
+git rebase --continue
+```
+
+### 5. Forçar o Push para o Repositório Remoto
+Após completar o rebase, você precisará forçar o push para atualizar o repositório remoto com as mudanças.
+```sh
+git push --force
+```
 
 
+</details>
+ 
 
 ## ✔️Emoji
 
