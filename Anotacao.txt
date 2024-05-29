@@ -6,3 +6,22 @@ Loading.io: Offers a wide range of customizable CSS loaders and animations.
 
 Spinkit: A collection of simple CSS spinners and loaders.
 
+
+Eva Design System é uma ferramenta online para geração de paleta de cores usando deep learning
+
+
+https://darkmodejs.learn.uno/
+
+https://www.fundaofwebit.com/git
+
+https://startbootstrap.com/themes?showPro=false
+
+https://www.fundaofwebit.com/jquery
+
+https://www.creative-tim.com/templates/free
+
+https://colors.eva.design/
+
+
+Bootstrap eCommerce Template - https://themewagon.com/theme-tag/ecommerce-template/?swoof=1&pa_price=free&paged=1&orderby=download_count&really_curr_tax=432-product_tag
+
