@@ -1,11 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Utilitários</title>
-</head>
-<body>
 
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!--Bootstrap CSS -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+		integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800&display=swap"
+		rel="stylesheet">
+
+	<style>
+		body {
+			background-color: #101010;
+			color: white;
+		}
+
+		.btnCustomizado {
+			border: 5em;
+			cursor: pointer;
+			outline: none;
+			font-size: 16px;
+			-webkit-transform: translate(0);
+			transform: translate(0);
+			background-image: linear-gradient(45deg, #4568dc, #b06ab3);
+			padding: 0.7em 2em;
+			border-radius: 65px;
+			box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+			-webkit-transition: box-shadow 0.25s;
+			transition: box-shadow 0.25s;
+			color: white;
+
+
+			width: 15.625rem;
+			/* display: flex;
+			justify-content: center;
+			align-items: center; */
+		}
+
+		.btnCustomizado .text {
+			background-clip: text;
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			background-image: linear-gradient(45deg, #4568dc, #b06ab3);
+		}
+
+		.btnCustomizado:after {
+			content: "";
+			border-radius: 1.125rem;
+			position: absolute;
+			margin: 4px;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			z-index: -1;
+			background: #0e0e10;
+		}
+
+		.btnCustomizado:hover {
+			background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
+			box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+			color: #59bcf9;
+		}
+
+		.btnCustomizado:hover .text {
+			background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
+		}
+
+		.row {
+			margin-top: 20px;
+		}
+
+		.col-4 {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin: 3rem 0;
+			/* Adiciona espaço entre os botões horizontalmente */
+		}
+	</style>
+
+	<title>Utilitários</title>
+</head>
+
+<body>
+	<div class="container">
+		<h1 class="display-4 text-center my-4">Utilitários</h1>
+
+		<div class="row">
+			<div class="col-4">
+				<button class="btn btnCustomizado">Gerador de Senha</button>
+			</div>
+			<div class="col-4">
+				<button class="btn btnCustomizado">Tradutor</button>
+			</div>
+			<div class="col-4">
+				<button class="btn btnCustomizado">Consulta CEP</button>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-4">
+				<button class="btn btnCustomizado">Gerador de Gradiente</button>
+			</div>
+			<div class="col-4">
+				<button class="btn btnCustomizado">Button 5</button>
+			</div>
+			<div class="col-4">
+				<button class="btn btnCustomizado">Button 6</button>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-4">
+				<button class="btn btnCustomizado">Button 7</button>
+			</div>
+			<div class="col-4">
+				<button class="btn btnCustomizado">Button 8</button>
+			</div>
+			<div class="col-4">
+				<button class="btn btnCustomizado">Button 9</button>
+			</div>
+		</div>
+	</div>
 </body>
+
 </html>
