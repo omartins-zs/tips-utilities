@@ -152,6 +152,17 @@ pick ghi9012 Outro commit</code></pre>
 	<li>Emojis Padrao Markdown <a href="https://gist.github.com/rxaviers/7360908">Gist Emoji Markdown</a></li>
 </ul>
 
+<h2>📚Auxiliares de Next.JS</h2>
+<ul>
+	<li>Authentication for Next.js <a href="https://next-auth.js.org/">NextAuth.js</a></li>
+	<li>Ferramenta de banco de dados ORM <a href="https://www.prisma.io/">Prisma.IO</a></li>
+	<li>Criar sua biblioteca de componentes <a href="https://ui.shadcn.com/">shadcn/ui</a></li>
+	<li>Biblioteca de componentes para React <a href="https://chakra-ui.com/">Chakra UI</a></li>
+	<li>Biblioteca de componentes para o framework CSS Tailwind CSS <a href="https://daisyui.com/">daisyUI</a></li>
+	<li>Framework de CSS <a href="https://tailwindcss.com/">Tailwind CSS</a></li>
+	<li>Coleção de componentes para criar e-mails <a href="https://react.email/">React Email</a></li>
+</ul>
+
 <h2>📍Icons</h2>
 <ul>
 	<li>Font Awesome <a href="https://fontawesome.com/icons">Icons</a></li>
@@ -192,29 +203,6 @@ pick ghi9012 Outro commit</code></pre>
 				<li>Editor de texto <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a></li>
 				<li>Editor de Código-Fonte Multi-Plataforma <a href="https://www.sublimetext.com/">Sublime Text</a></li>
 				<li>IDE Python <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a></li>
-			</ul>
-		</details>
-	</li>
-	<li>
-		<details>
-			<summary>📚Auxiliares de Next.JS</summary>
-			<ul>
-				<li>Authentication for Next.js <a href="https://next-auth.js.org/">NextAuth.js</a></li>
-				<li>Ferramenta de banco de dados ORM <a href="https://www.prisma.io/">Prisma.IO</a></li>
-				<li>Criar sua biblioteca de componentes <a href="https://ui.shadcn.com/">shadcn/ui</a></li>
-				<li>Biblioteca de componentes para React <a href="https://chakra-ui.com/">Chakra UI</a></li>
-				<li>Biblioteca de componentes para o framework CSS Tailwind CSS <a
-						href="https://daisyui.com/">daisyUI</a></li>
-				<li>Framework de CSS <a href="https://tailwindcss.com/">Tailwind CSS</a></li>
-				<li>Coleção de componentes para criar e-mails <a href="https://react.email/">React Email</a></li>
-			</ul>
-		</details>
-	</li>
-	<li>
-		<details>
-			<summary>📍Leitores de JSON</summary>
-			<ul>
-				<li>JSON Crack <a href="https://jsoncrack.com/">JSONCrack</a></li>
 			</ul>
 		</details>
 	</li>
