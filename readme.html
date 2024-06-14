@@ -10,7 +10,6 @@
 	<link rel="shortcut icon" href="assets/img/icon_tips.png" type="image/x-icon">
 
 	<title>Dicas e Auxiliares</title>
-
 	<style>
 		body {
 			background-color: #101010;
@@ -36,7 +35,20 @@
 			flex-grow: 1;
 
 		}
-		
+
+		a {
+			color: #1e90ff;
+		}
+
+		a:hover {
+			color: #ff6347;
+		}
+
+		code {
+			background: wheat;
+			color: #e83e8c;
+		}
+
 		.btnUtilitarios {
 			background-image: linear-gradient(135deg, #4568dc, #b06ab3);
 			border-radius: 6px;
@@ -226,20 +238,20 @@
 								<details>
 									<summary>Como mudar o username e email dos commits já feitos</summary>
 									<pre><code class="language-git">git filter-branch --env-filter '
-		EMAIL_ANTIGO="seu-email-antigo@example.com"
-		NOME_CORRETO="Nome correto"
-		EMAIL_CORRETO="seu-email-correto@example.com"
-		if [ "$GIT_COMMITTER_EMAIL" = "$EMAIL_ANTIGO" ]
-		then
-		export GIT_COMMITTER_NAME="$NOME_CORRETO"
-		export GIT_COMMITTER_EMAIL="$EMAIL_CORRETO"
-		fi
-		if [ "$GIT_AUTHOR_EMAIL" = "$EMAIL_ANTIGO" ]
-		then
-		export GIT_AUTHOR_NAME="$NOME_CORRETO"
-		export GIT_AUTHOR_EMAIL="$EMAIL_CORRETO"
-		fi
-		' --tag-name-filter cat -- --branches --tags</code></pre>
+EMAIL_ANTIGO="seu-email-antigo@example.com"
+NOME_CORRETO="Nome correto"
+EMAIL_CORRETO="seu-email-correto@example.com"
+if [ "$GIT_COMMITTER_EMAIL" = "$EMAIL_ANTIGO" ]
+then
+export GIT_COMMITTER_NAME="$NOME_CORRETO"
+export GIT_COMMITTER_EMAIL="$EMAIL_CORRETO"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$EMAIL_ANTIGO" ]
+then
+export GIT_AUTHOR_NAME="$NOME_CORRETO"
+export GIT_AUTHOR_EMAIL="$EMAIL_CORRETO"
+fi
+' --tag-name-filter cat -- --branches --tags</code></pre>
 								</details>
 							</li>
 
@@ -264,8 +276,8 @@
 												feche o editor, Exemplo:
 											</p>
 											<pre><code>reword abc1234 Mensagem antiga
-		pick def5678 Outro commit
-		pick ghi9012 Outro commit</code></pre>
+pick def5678 Outro commit
+pick ghi9012 Outro commit</code></pre>
 										</li>
 										<li>
 											<strong>3. Edite a Mensagem do Commit</strong>
@@ -302,8 +314,7 @@
 							<li>Emojis Padrao WhatsApp <a href="https://getemoji.com/">GetEmoji</a></li>
 							<li>Emoji Geral <a href="https://itinerant.tistory.com/60">Git Markdown emoji</a></li>
 							<li>Emojis do Github <a
-									href="https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji">Github
-									Emoji</a></li>
+									href="https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji">Github Emoji</a></li>
 							<li><a href="https://github.com/ikatyang/emoji-cheat-sheet">Emoji-Cheat-Sheet</a></li>
 							<li>Emojis Padrao Markdown <a href="https://gist.github.com/rxaviers/7360908">Gist Emoji
 									Markdown</a></li>
@@ -354,8 +365,7 @@
 							<li>150+ Badges for GitHub <a href="https://dev.to/envoy_/150-badges-for-github-pnk">DEV
 									Community</a></li>
 							<li>Badges Readme <a
-									href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges
-									4
+									href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4
 									README.md</a></li>
 							<li>Criador de Badges e Exemplos <a href="https://shields.io/">Shields.io</a></li>
 						</ul>
@@ -374,9 +384,7 @@
 									<ul>
 										<li>Editor e Auxiliador Online de Markdown <a
 												href="https://readme.so/pt/editor">Readme.SO</a></li>
-										<li>Editor de Markdown no navegador <a
-												href="https://stackedit.io/">StackEdit</a>
-										</li>
+										<li>Editor de Markdown no navegador <a href="https://stackedit.io/">StackEdit</a></li>
 										<li>Editor Online <a href="https://dillinger.io/">Dillinger</a></li>
 										<li>Editor de Markdown Software <a href="https://typora.io/">Typora</a></li>
 									</ul>
@@ -392,8 +400,7 @@
 										<li>Editor de Código-Fonte excelente para Web <a
 												href="https://code.visualstudio.com/">Visual Studio Code</a></li>
 										<li>Editor de texto <a
-												href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
-										</li>
+												href="https://notepad-plus-plus.org/downloads/">Notepad++</a></li>
 										<li>Editor de Código-Fonte Multi-Plataforma <a
 												href="https://www.sublimetext.com/">Sublime Text</a></li>
 										<li>IDE Python <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a>
