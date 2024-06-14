@@ -16,14 +16,52 @@
 			background-color: #101010;
 			color: white;
 		}
+		.btnUtilitarios {
+			background-image: linear-gradient(135deg, #4568dc, #b06ab3);
+			border-radius: 6px;
+			box-sizing: border-box;
+			color: #ffffff;
+			display: block;
+			height: 50px;
+			font-size: 1.4em;
+			font-weight: 600;
+			padding: 4px;
+			position: relative;
+			text-decoration: none;
+			width: 7em;
+			z-index: 2;
+		}
+
+		.btnUtilitarios:hover {
+			color: #fff;
+		}
+
+		.btnUtilitarios .spanButton {
+			align-items: center;
+			background: #0e0e10;
+			border-radius: 6px;
+			display: flex;
+			justify-content: center;
+			height: 100%;
+			transition: background 0.5s ease;
+			width: 100%;
+		}
+
+		.btnUtilitarios:hover .spanButton {
+			background: transparent;
+		}
 	</style>
 </head>
 
 <body>
 
-	<h1 class="display-3 text-center mt-5">Dicas e Auxiliares</h1>
+	<div class="d-flex justify-content-between align-items-center mt-5">
+		<h1 class="display-3 text-center flex-grow-1 ml-5">Dicas e Auxiliares</h1>
+		<a class="btnUtilitarios mr-5" href="/index.html"><span class="spanButton">Utilitários</span></a>
 
-	<p class="text-center">
+		<!-- <button type="button" class="btn btn-primary ml-3">Botão</button> -->
+	</div>
+	<p class="text-center mr-5">
 		<img src="https://img.shields.io/badge/-GERAL-informational" />
 	</p>
 
