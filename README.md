@@ -95,6 +95,28 @@
         ' --tag-name-filter cat -- --branches --tags
       </code>
     </pre>
+
+ <pre>
+      <code class="language-git">
+       git filter-branch --env-filter '
+    NOME_CORRETO="Seu Nome Correto"
+    EMAIL_CORRETO="seu-email-correto@example.com"
+
+    if [ "$GIT_COMMITTER_EMAIL" != "$EMAIL_CORRETO" ]
+    then
+        export GIT_COMMITTER_NAME="$NOME_CORRETO"
+        export GIT_COMMITTER_EMAIL="$EMAIL_CORRETO"
+    fi
+
+    if [ "$GIT_AUTHOR_EMAIL" != "$EMAIL_CORRETO" ]
+    then
+        export GIT_AUTHOR_NAME="$NOME_CORRETO"
+        export GIT_AUTHOR_EMAIL="$EMAIL_CORRETO"
+    fi
+' --tag-name-filter cat -- --branches --tags
+      </code>
+    </pre>
+   
   </details>
 </li>
 	<li>
