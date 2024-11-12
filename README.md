@@ -11,6 +11,8 @@
 	<li>Compilando o Bootstrap com SASS e NPM <a href="https://www.youtube.com/watch?v=VAet5wEoOWU&tk">Tutorial
 			Youtube</a> e <a href="https://diegomariano.com/compilando-o-bootstrap-com-sass-e-npm/">Auxiliar DOC</a>
 	</li>
+	<li>Avatar Aleatorio <a href="https://avatar.iran.liara.run/public">Avatar Liara</a>
+	</li>
 </ul>
 
 <h2>💻📊✔️Software de Gerenciamento de Projetos</h2>
