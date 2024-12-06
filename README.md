@@ -159,7 +159,33 @@ pick ghi9012 Outro commit</code></pre>
 			</ul>
 		</details>
 	</li>
+<li>
+		<details>
+			<summary>Alterando Commits após fazer Checkout para Commit Anterior(Recuperando e Atualizando uma Branch a Partir de um Commit Anterior)</summary>
+			<ul>
+				<li>
+					<p>
+						Se você voltou apenas para um commit anterior (usando git checkout <hash>), e fez novos commits no estado de detached HEAD, mas agora quer que esses novos commits substituam o terceiro commit, aqui está o que fazer sem criar uma nova branch:
+						
+						
+						# Force a branch principal para o estado atual
+						git branch -f (nome-da-branch) HEAD
+						
+						# Volte para a branch principal
+						git checkout (nome-da-branch)
+						
+						# Envie as alterações para o repositório remoto, sobrescrevendo o histórico
+						git push --force
+						
+						
+						git push origin HEAD:(nome-da-branch)--force
+					</p>
+				
 
+				</li>
+			</ul>
+		</details>
+	</li>
 </ul>
 
 <h2>✔️Emoji</h2>
