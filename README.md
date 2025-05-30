@@ -24,6 +24,12 @@
 	<li><a href="https://github.com/wekan/wekan">Wekan(Kaban) - Open Source</a></li>
 </ul>
 
+<h2>Icones</h2>
+
+<ul>
+	<li><a href="https://heroicons.com/">Heroicons</a></li>
+</ul>
+
 <h2>🪑📊Sistemas de gerenciamento de banco de dados(SGBD)</h2>
 
 <ul>
