@@ -1,261 +1,218 @@
-<h1 align="center">Dicas e Auxiliares</h1>
+# Dicas e Auxiliares
 
-<br />
 <p align="center">
-	<img src="https://img.shields.io/badge/-GERAL-informational" />
+  <img src="https://img.shields.io/badge/-GERAL-informational" />
 </p>
 
-<ul>
- <li>Visualize perfeitamente seus dados JSON instantaneamente em gráficos <a href="https://jsoncrack.com/editor">JSON Crack</a>
-	</li>
-	<li>Compilando o Bootstrap com SASS e NPM <a href="https://www.youtube.com/watch?v=VAet5wEoOWU&tk">Tutorial
-			Youtube</a> e <a href="https://diegomariano.com/compilando-o-bootstrap-com-sass-e-npm/">Auxiliar DOC</a>
-	</li>
-	<li>Avatar Aleatorio <a href="https://avatar.iran.liara.run/public">Avatar Liara</a>
-	</li>
-</ul>
+- Visualize perfeitamente seus dados JSON instantaneamente em gráficos: [JSON Crack](https://jsoncrack.com/editor)  
+- Compilando o Bootstrap com SASS e NPM: [Tutorial Youtube](https://www.youtube.com/watch?v=VAet5wEoOWU&tk) | [Auxiliar DOC](https://diegomariano.com/compilando-o-bootstrap-com-sass-e-npm/)  
+- Avatar Aleatório: [Avatar Liara](https://avatar.iran.liara.run/public)
 
-<h2>💻📊✔️Software de Gerenciamento de Projetos</h2>
+---
 
-<ul>
-	<li><a href="https://project.microsoft.com/">Microsoft Project</a></li>
-	<li><a href="https://trello.com/">Trello</a></li>
-	<li><a href="https://slack.com/intl/pt-br">Slack</a></li>
-	<li><a href="https://github.com/wekan/wekan">Wekan(Kaban) - Open Source</a></li>
-</ul>
+## 💻📊✔️ Software de Gerenciamento de Projetos
 
-<h2>Icones</h2>
+- [Microsoft Project](https://project.microsoft.com/)  
+- [Trello](https://trello.com/)  
+- [Slack](https://slack.com/intl/pt-br)  
+- [Wekan (Kanban) – Open Source](https://github.com/wekan/wekan)
 
-<ul>
-	<li><a href="https://heroicons.com/">Heroicons</a></li>
-</ul>
+---
 
-<h2>🪑📊Sistemas de gerenciamento de banco de dados(SGBD)</h2>
+## 🪑📊 SGBD
 
-<ul>
-	<li><a
-			href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">SQL
-			Server Management Studio (SSMS)</a></li>
-	<li><a href="https://dbeaver.io/download/">DBeaver Community</a></li>
-	<li><a href="https://www.heidisql.com/download.php">HeidiSQL</a></li>
-</ul>
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)  
+- [DBeaver Community](https://dbeaver.io/download/)  
+- [HeidiSQL](https://www.heidisql.com/download.php)
 
-<h2>💻➡️✔️Ferramentas de Lógica de Programação</h2>
-<ul>
-	<li>Interface para criar diagramas como fluxogramas, wireframes, diagramas UML <a
-			href="https://app.diagrams.net/">Diagrams.net(draw.io)</a></li>
-	<li>Ferramenta gráfica para escrever e executar fluxogramas <a
-			href="http://www.flowgorithm.org/download/index.html">Flowgorithm</a></li>
-</ul>
+---
 
-<h2>🪑💹 Banco de Dados</h2>
-<ul>
-	<li><a href="http://www.fititnt.org/off/tipos-de-campos-e-exemplos-de-valores-empresas-em-sistemas-cnpj-cep.html">Tipos
-			de campos e exemplos de valores</a></li>
-	<li><a href="https://www.sqlines.com/online">SQL Convertion</a></li>
-</ul>
+## 💻➡️✔️ Ferramentas de Lógica de Programação
 
-<h2>📄README</h2>
-<ul>
-	<li><a href="https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89">Um modelo para fazer bom README</a>
-	</li>
-	<li><a href="https://www.alura.com.br/artigos/escrever-bom-readme">Como escrever um README incrível no seu
-			Github</a></li>
-	<li><a href="https://github.com/tgmarinho/README-ecoleta/blob/master/README.md">Exemplo de README Ecoleta</a></li>
-</ul>
+- Diagrams.net (draw.io) — [Criar diagramas (fluxogramas, wireframes, UML)](https://app.diagrams.net/)  
+- Flowgorithm — [Escrever e executar fluxogramas](http://www.flowgorithm.org/download/index.html)
 
-<h2>👨‍💻 :octocat: Github</h2>
-<ul>
-	<li><a href="https://brorlandi.github.io/git-desfazendo-commits">Git, desfazendo commits</a></li>
-	<li><a href="https://wallacemaxters.com.br/blog/50/como-modificar-o-repositorio-remoto-no-git">Como modificar o
-			repositorio remoto no Git</a></li>
-	<li><a href="https://pt.stackoverflow.com/questions/326160/diferen%C3%A7a-entre-git-add-all-git-add-e-git-add-u">Diferença
-			entre "git add --all", "git add ." e "git add -u"</a></li>
-	<li>Geekhunter <a href="https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_add">13 comandos Git mais
-			usados</a></li>
-	<li>Desfazer o último commit e remover as alterações do stage area <code>git reset HEAD~1</code> |
-		(<code>git reset HEAD~2</code> volta 2 Commits)</li>
-	<li>Desfazer o último commit e manter as alterações no stage area <code>git reset --soft HEAD~1</code></li>
-	<li>Fusão sem verificar os 2 Historicos de commits <code>git pull origin master --allow-unrelated-histories</code>
-	</li>
-	<li><a
-			href="https://community.umbler.com/br/t/resolvendo-o-erro-fatal-refusing-to-merge-unrelated-histories-no-git/657">Resolvendo
-			o erro “fatal: refusing to merge unrelated histories” no Git</a></li>
-<li>
-  <details>
-    <summary>Como mudar o username e email dos commits já feitos</summary>
-    <pre>
-      <code class="language-git">
-        git filter-branch --env-filter '
-        EMAIL_ANTIGO="seu-email-antigo@example.com"
-        NOME_CORRETO="Nome correto"
-        EMAIL_CORRETO="seu-email-correto@example.com"
-        if [ "$GIT_COMMITTER_EMAIL" = "$EMAIL_ANTIGO" ]
-        then
-        export GIT_COMMITTER_NAME="$NOME_CORRETO"
-        export GIT_COMMITTER_EMAIL="$EMAIL_CORRETO"
-        fi
-        if [ "$GIT_AUTHOR_EMAIL" = "$EMAIL_ANTIGO" ]
-        then
-        export GIT_AUTHOR_NAME="$NOME_CORRETO"
-        export GIT_AUTHOR_EMAIL="$EMAIL_CORRETO"
-        fi
-        ' --tag-name-filter cat -- --branches --tags
-      </code>
-    </pre>
+---
 
- <pre>
-      <code class="language-git">
-       git filter-branch --env-filter '
-    NOME_CORRETO="Seu Nome Correto"
+## 🪑💹 Banco de Dados
+
+- [Tipos de campos e exemplos de valores (CNPJ, CEP, etc.)](http://www.fititnt.org/off/tipos-de-campos-e-exemplos-de-valores-empresas-em-sistemas-cnpj-cep.html)  
+- [SQL Convertion (sqlines)](https://www.sqlines.com/online)
+
+---
+
+## 📄 README
+
+- [Modelo para um bom README (Gist)](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+- [Como escrever um README incrível (Alura)](https://www.alura.com.br/artigos/escrever-bom-readme)  
+- [Exemplo de README Ecoleta](https://github.com/tgmarinho/README-ecoleta/blob/master/README.md)
+
+---
+
+## 👨‍💻 :octocat: GitHub
+
+- [Git: desfazendo commits](https://brorlandi.github.io/git-desfazendo-commits)  
+- [Modificar repositório remoto no Git](https://wallacemaxters.com.br/blog/50/como-modificar-o-repositorio-remoto-no-git)  
+- [Diferença entre `git add --all`, `git add .` e `git add -u`](https://pt.stackoverflow.com/questions/326160/diferen%c3%a7a-entre-git-add-all-git-add-e-git-add-u)  
+- [13 comandos Git mais usados (Geekhunter)](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_add)  
+- Desfazer o último commit e remover do stage area:  
+  ```bash
+  git reset HEAD~1        # volta 1 commit
+  git reset HEAD~2        # volta 2 commits
+  ```  
+- Desfazer o último commit e manter no stage area:  
+  ```bash
+  git reset --soft HEAD~1
+  ```  
+- Fusão sem verificar históricos:  
+  ```bash
+  git pull origin master --allow-unrelated-histories
+  ```  
+- [Resolver “fatal: refusing to merge unrelated histories”](https://community.umbler.com/br/t/resolvendo-o-erro-fatal-refusing-to-merge-unrelated-histories-no-git/657)
+
+<details>
+  <summary>Como mudar username &amp; email dos commits já feitos</summary>
+
+  ```bash
+  git filter-branch --env-filter '
+    EMAIL_ANTIGO="seu-email-antigo@example.com"
+    NOME_CORRETO="Nome correto"
     EMAIL_CORRETO="seu-email-correto@example.com"
-
-    if [ "$GIT_COMMITTER_EMAIL" != "$EMAIL_CORRETO" ]
-    then
-        export GIT_COMMITTER_NAME="$NOME_CORRETO"
-        export GIT_COMMITTER_EMAIL="$EMAIL_CORRETO"
+    if [ "$GIT_COMMITTER_EMAIL" = "$EMAIL_ANTIGO" ]; then
+      export GIT_COMMITTER_NAME="$NOME_CORRETO"
+      export GIT_COMMITTER_EMAIL="$EMAIL_CORRETO"
     fi
-
-    if [ "$GIT_AUTHOR_EMAIL" != "$EMAIL_CORRETO" ]
-    then
-        export GIT_AUTHOR_NAME="$NOME_CORRETO"
-        export GIT_AUTHOR_EMAIL="$EMAIL_CORRETO"
+    if [ "$GIT_AUTHOR_EMAIL" = "$EMAIL_ANTIGO" ]; then
+      export GIT_AUTHOR_NAME="$NOME_CORRETO"
+      export GIT_AUTHOR_EMAIL="$EMAIL_CORRETO"
     fi
-' --tag-name-filter cat -- --branches --tags
-      </code>
-    </pre>
-   
-  </details>
-</li>
-	<li>
-		<details>
-			<summary>Alterando a Mensagem de Commits Específicos</summary>
-			<ul>
-				<li>
-					<strong>1. Utilize o comando <code>git rebase -i HEAD~n</code></strong>
-					<p>Onde <code>n</code> é o número de commits a partir do HEAD que você quer incluir no rebase.</p>
-					<pre><code>git rebase -i HEAD~3</code></pre>
-				</li>
-				<li>
-					<strong>2. Escolha o Commit para Editar</strong>
-					<p>Encontre o commit cuja mensagem você deseja alterar e substitua <code>pick</code> por
-						<code>reword</code> (ou <code>r</code>) e Salve e feche o editor, Exemplo:
-					</p>
-					<pre><code>reword abc1234 Mensagem antiga
-pick def5678 Outro commit
-pick ghi9012 Outro commit</code></pre>
-				</li>
-				<li>
-					<strong>3. Edite a Mensagem do Commit</strong>
-					<p>O Git abrirá o editor novamente, desta vez para você editar a mensagem do commit especificado.
-						Edite a mensagem conforme necessário, salve e feche o editor</p>
-				</li>
-				<li>
-					<strong>4. Continue o Rebase</strong>
-					<p>Após editar a mensagem, o rebase interativo continuará automaticamente. Se houver conflitos, você
-						precisará resolvê-los antes de continuar.</p>
-					<pre><code>git rebase --continue</code></pre>
-				</li>
-				<li>
-					<strong>5. Forçar o Push para o Repositório Remoto</strong>
-					<p>Após completar o rebase, você precisará forçar o push para atualizar o repositório remoto com as
-						mudanças.</p>
-					<pre><code>git push --force</code></pre>
-				</li>
-			</ul>
-		</details>
-	</li>
-<li>
-		<details>
-			<summary>Alterando Commits após fazer Checkout para Commit Anterior(Recuperando e Atualizando uma Branch a Partir de um Commit Anterior)</summary>
-			<ul>
-				<li>
-					<p>
-						Se você voltou apenas para um commit anterior (usando git checkout <hash>), e fez novos commits no estado de detached HEAD, mas agora quer que esses novos commits substituam o terceiro commit, aqui está o que fazer sem criar uma nova branch:
-						
-						
-						# Force a branch principal para o estado atual
-						git branch -f (nome-da-branch) HEAD
-						
-						# Volte para a branch principal
-						git checkout (nome-da-branch)
-						
-						# Envie as alterações para o repositório remoto, sobrescrevendo o histórico
-						git push --force
-						
-						
-						git push origin HEAD:(nome-da-branch)--force
-					</p>
-				
+  ' --tag-name-filter cat -- --branches --tags
+  ```
+</details>
 
-				</li>
-			</ul>
-		</details>
-	</li>
-</ul>
+<details>
+  <summary>Alterando a mensagem de commits específicos</summary>
 
-<h2>✔️Emoji</h2>
-<ul>
-	<li>Enciclopédia de Emoji <a href="https://emojipedia.org/">Emojipedia</a></li>
-	<li>Emojis Padrao WhatsApp <a href="https://getemoji.com/">GetEmoji</a></li>
-	<li>Emoji Geral <a href="https://itinerant.tistory.com/60">Git Markdown emoji</a></li>
-	<li>Emojis do Github <a href="https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji">Github Emoji</a></li>
-	<li><a href="https://github.com/ikatyang/emoji-cheat-sheet">Emoji-Cheat-Sheet</a></li>
-	<li>Emojis Padrao Markdown <a href="https://gist.github.com/rxaviers/7360908">Gist Emoji Markdown</a></li>
-</ul>
+  1. `git rebase -i HEAD~n` (substitua `n` pelo número de commits)  
+  2. No editor, troque `pick` por `reword` no commit desejado  
+  3. Edite a mensagem quando o Git abrir o editor novamente  
+  4. Resolva conflitos (se houver) e execute:
+     ```bash
+     git rebase --continue
+     ```  
+  5. Force o push:
+     ```bash
+     git push --force
+     ```
+</details>
 
-<h2>📚Auxiliares de Next.JS</h2>
-<ul>
-	<li>Authentication for Next.js <a href="https://next-auth.js.org/">NextAuth.js</a></li>
-	<li>Ferramenta de banco de dados ORM <a href="https://www.prisma.io/">Prisma.IO</a></li>
-	<li>Criar sua biblioteca de componentes <a href="https://ui.shadcn.com/">shadcn/ui</a></li>
-	<li>Biblioteca de componentes para React <a href="https://chakra-ui.com/">Chakra UI</a></li>
-	<li>Biblioteca de componentes para o framework CSS Tailwind CSS <a href="https://daisyui.com/">daisyUI</a></li>
-	<li>Framework de CSS <a href="https://tailwindcss.com/">Tailwind CSS</a></li>
-	<li>Coleção de componentes para criar e-mails <a href="https://react.email/">React Email</a></li>
-</ul>
+<details>
+  <summary>Alterando commits após detached HEAD</summary>
 
-<h2>📍Icons</h2>
-<ul>
-	<li>Font Awesome <a href="https://fontawesome.com/icons">Icons</a></li>
-	<li>Logotipos de linguagens e ferramentas de desenvolvimento <a
-			href="https://github.com/devicons/devicon/tree/master/icons">DevIcon</a></li>
-	<li>Icones Simples <a href="https://simpleicons.org/">Simple Icons</a></li>
-	<li>Favicons <a href="https://icons8.com.br/icons/set/popular">Icons8</a></li>
-</ul>
+  Se você criou novos commits em detached HEAD e quer reaplicar na sua branch:
 
-<h2>🔖Badges</h2>
-<ul>
-	<li>150+ Badges for GitHub <a href="https://dev.to/envoy_/150-badges-for-github-pnk">DEV Community</a></li>
-	<li>Badges Readme <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges 4 README.md</a></li>
-	<li>Criador de Badges e Exemplos <a href="https://shields.io/">Shields.io</a></li>
-</ul>
+  ```bash
+  # forçar a branch principal para o HEAD atual
+  git branch -f nome-da-branch HEAD
+  # voltar para a branch principal
+  git checkout nome-da-branch
+  # push forçado para o remoto
+  git push origin HEAD:nome-da-branch --force
+  ```
+</details>
 
-<h2>💻🧾 Editores</h2>
-<ul>
-	<li>
-		<details>
-			<summary>📌Markdown</summary>
-			<ul>
-				<li>Editor e Auxiliador Online de Markdown <a href="https://readme.so/pt/editor">Readme.SO</a></li>
-				<li>Editor de Markdown no navegador <a href="https://stackedit.io/">StackEdit</a></li>
-				<li>Editor Online <a href="https://dillinger.io/">Dillinger</a></li>
-				<li>Editor de Markdown Software <a href="https://typora.io/">Typora</a></li>
-			</ul>
-		</details>
-	</li>
-	<li>
-		<details>
-			<summary>👨🏻‍💻Editor de código e IDE</summary>
-			<ul>
-				<li>IDE abrangente para desenvolvedores .NET e C++ <a
-						href="https://visualstudio.microsoft.com/pt-br/vs/">Visual Studio 2022</a></li>
-				<li>Editor de Código-Fonte excelente para Web <a href="https://code.visualstudio.com/">Visual Studio
-						Code</a></li>
-				<li>Editor de texto <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a></li>
-				<li>Editor de Código-Fonte Multi-Plataforma <a href="https://www.sublimetext.com/">Sublime Text</a></li>
-				<li>IDE Python <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a></li>
-			</ul>
-		</details>
-	</li>
-</ul>
+---
+
+## ✔️ Emoji
+
+- [Emojipedia](https://emojipedia.org/)  
+- [GetEmoji (padrão WhatsApp)](https://getemoji.com/)  
+- [Git Markdown Emoji](https://itinerant.tistory.com/60)  
+- [GitHub Emoji](https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji)  
+- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)  
+- [Gist Emoji Markdown](https://gist.github.com/rxaviers/7360908)
+
+---
+
+## 📚 Auxiliares de Next.js
+
+- [NextAuth.js (autenticação)](https://next-auth.js.org/)  
+- [Prisma ORM](https://www.prisma.io/)  
+- [shadcn/ui (biblioteca de componentes)](https://ui.shadcn.com/)  
+- [Chakra UI](https://chakra-ui.com/)  
+- [daisyUI (Tailwind CSS)](https://daisyui.com/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [React Email (componentes para e-mail)](https://react.email/)
+
+---
+
+## 📍 Ícones
+
+- [Font Awesome Icons](https://fontawesome.com/icons)  
+- [DevIcon (linguagens e ferramentas)](https://github.com/devicons/devicon/tree/master/icons)  
+- [Simple Icons](https://simpleicons.org/)  
+- [Icons8 (favicons)](https://icons8.com.br/icons/set/popular)
+- [Heroicons](https://heroicons.com/)
+
+---
+
+## 🔖 Badges
+
+- [150+ Badges for GitHub (DEV Community)](https://dev.to/envoy_/150-badges-for-github-pnk)  
+- [Badges4-README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
+- [Shields.io (criador de badges)](https://shields.io/)
+
+---
+
+## 💻🧾 Editores
+
+<details>
+  <summary>📌 Markdown</summary>
+
+  - [Readme.so (editor online)](https://readme.so/pt/editor)  
+  - [StackEdit](https://stackedit.io/)  
+  - [Dillinger](https://dillinger.io/)  
+  - [Typora](https://typora.io/)
+</details>
+
+<details>
+  <summary>👨🏻‍💻 Código &amp; IDE</summary>
+
+  - [Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/vs/)  
+  - [Visual Studio Code](https://code.visualstudio.com/)  
+  - [Notepad++](https://notepad-plus-plus.org/downloads/)  
+  - [Sublime Text](https://www.sublimetext.com/)  
+  - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
+</details>
+
+---
+
+## 🔔 Alerts
+
+- [Sweet Alert](https://sweetalert.js.org/)  
+- [SweetAlert2](https://sweetalert2.github.io/)  
+- [Notyf](https://carlosroso.com/notyf/)  
+- [Alertify JS](https://alertifyjs.com/)  
+- [Toastr](http://www.toastrjs.com/)  
+- [Laravel Noty](https://github.com/rsmalc/laravel-noty)
+- [Notify.js](https://notifyjs.jpillora.com/)
+
+---
+
+## 🖼️ Placeholders
+
+Sim! O site [placehold.co](https://placehold.co/) é um gerador de imagens placeholder para usar em desenvolvimento (tamanho, texto, cor de fundo e da fonte).  
+Alternativas:
+
+- [via.placeholder.com](https://via.placeholder.com)  
+  - Exemplo: `https://via.placeholder.com/300x200`
+- [dummyimage.com](https://dummyimage.com)  
+  - Exemplo: `https://dummyimage.com/300x200/000/fff&text=Texto`
+- [placeimg.com](https://placeimg.com)  
+  - Exemplo: `https://placeimg.com/300/200/tech`
+- [picsum.photos](https://picsum.photos)  
+  - Exemplo: `https://picsum.photos/300/200`
+
+---
+
+- [Logos de Times](https://logodetimes.com/)
